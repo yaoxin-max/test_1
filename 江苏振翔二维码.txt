@@ -1,0 +1,4 @@
+腾讯云服务器ip:111.229.177.90
+一级域名：js-zhenxiang.com
+二级域名：qr.js-zhenxiang.com
+二维码网址登录账号：admin 密码：123456
